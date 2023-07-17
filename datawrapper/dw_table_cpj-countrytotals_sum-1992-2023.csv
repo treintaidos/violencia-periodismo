@@ -1,117 +1,117 @@
-﻿nm_country,Desaparecidos,Muertos
-Guatemala,,27
-Kuwait,,1
-Ukraine,1,37
-Timor-Leste,,2
-Bulgaria,,3
-France,,10
-Nigeria,,24
-Vietnam,,1
-"Tanzania, United Republic of",1,2
-Poland,,2
-Turkey,,31
-Uganda,,5
-Honduras,,37
-Afghanistan,,79
-Ireland,,1
-Algeria,3,60
-Costa Rica,,1
-South Africa,,5
-Egypt,1,13
-Kazakhstan,,4
-Indonesia,1,13
-Azerbaijan,,8
-Russia,7,83
-Lithuania,,1
-Argentina,,4
-Cambodia,,12
-Chile,,1
-Lebanon,1,11
-Gambia,,2
-Mali,,2
-United Kingdom,,4
-Montenegro,,1
-Spain,,1
-Colombia,,96
-Bahrain,,3
-Albania,,1
-Georgia,,10
-Libya,4,15
-Chad,,6
-Ghana,,2
-Gabon,,1
-Somalia,,85
-Bangladesh,,35
-"Congo, the Democratic Republic of the",2,16
-Burkina Faso,,3
-Brazil,,60
-Zimbabwe,,1
-India,,90
-Barbados,,1
-Guinea,,4
-Paraguay,,10
-Papua New Guinea,,1
-Rwanda,2,24
-Panama,,1
-Yemen,1,35
-Eritrea,,2
-Iraq,9,279
-China,1,5
-Sierra Leone,,18
-Haiti,1,19
-Turkmenistan,,1
-Tajikistan,,29
-Mexico,15,151
-United States,,17
-Croatia,,4
-Lesotho,,1
-Philippines,,157
-Cyprus,,1
-Uzbekistan,,1
-Liberia,,1
-Ethiopia,,5
-Greece,,2
-French Polynesia,1,
-Uruguay,,1
-Mozambique,1,2
-Belarus,,6
-Tunisia,,1
-Kenya,,6
-South Sudan,,10
-Madagascar,,2
-Armenia,,1
-Malta,,1
-Burundi,1,4
-Angola,,11
-Cameroon,,4
-Canada,,2
-Burma,,10
-Serbia,1,12
-"Iran, Islamic Republic of",,6
-Israel,,25
-Dominican Republic,,6
-Saudi Arabia,,2
-Japan,,1
-Peru,,17
-Zambia,,1
-Thailand,,16
-El Salvador,,6
-Pakistan,,97
-Maldives,,2
-Latvia,,1
-Sri Lanka,1,25
-Bosnia and Herzegovina,,25
-Ivory Coast,1,6
-Venezuela,,10
-Slovakia,,1
-Denmark,,1
-Central African Republic,,5
-Kyrgyzstan,,2
-Sudan,,2
-Bolivia,,3
-Syrian Arab Republic,8,155
-Congo,,3
-Netherlands,,1
-Ecuador,,4
-Nicaragua,,3
-Nepal,,17
+﻿cd_country_iso3,nm_country_short,Desaparecidos,Muertos
+KGZ,Kyrgyzstan,0,2
+IRN,Iran (Islamic Republic of),0,6
+HND,Honduras,0,37
+BLR,Belarus,0,6
+BGR,Bulgaria,0,3
+CAN,Canada,0,2
+FRA,France,0,10
+SLV,El Salvador,0,6
+COG,Congo (the),0,3
+DZA,Algeria,3,60
+LBR,Liberia,0,1
+URY,Uruguay,0,1
+EGY,Egypt,1,13
+GHA,Ghana,0,2
+YEM,Yemen,1,35
+UZB,Uzbekistan,0,1
+CAF,Central African Republic,0,5
+TJK,Tajikistan,0,29
+IRQ,Iraq,9,279
+BDI,Burundi,1,4
+ARG,Argentina,0,4
+MDG,Madagascar,0,2
+UGA,Uganda,0,5
+MDV,Maldives,0,2
+TUR,Türkiye,0,31
+SSD,South Sudan,0,10
+DOM,Dominican Republic,0,6
+COD,Congo (the Democratic Republic of the),2,16
+TLS,Timor-Leste,0,2
+GEO,Georgia,0,10
+LSO,Lesotho,0,1
+CHN,China,1,5
+KHM,Cambodia,0,12
+TZA,"Tanzania, the United Republic of",1,2
+LBY,Libya,4,15
+VNM,Viet Nam,0,1
+MEX,Mexico,15,151
+RUS,Russian Federation (the),7,83
+AGO,Angola,0,11
+TUN,Tunisia,0,1
+BOL,Bolivia (Plurinational State of),0,3
+LVA,Latvia,0,1
+SOM,Somalia,0,85
+PYF,French Polynesia,1,0
+GMB,Gambia,0,2
+BRA,Brazil,0,60
+NLD,"Netherlands, Kingdom of the",0,1
+KEN,Kenya,0,6
+GIN,Guinea,0,4
+MNE,Montenegro,0,1
+KAZ,Kazakhstan,0,4
+PRY,Paraguay,0,10
+UKR,Ukraine,1,37
+CYP,Cyprus,0,1
+IDN,Indonesia,1,13
+ESP,Spain,0,1
+PAK,Pakistan,0,97
+HTI,Haiti,1,19
+LKA,Sri Lanka,1,25
+VEN,Venezuela (Bolivarian Republic of),0,10
+IND,India,0,90
+USA,United States of America,0,17
+MLT,Malta,0,1
+SYR,Syrian Arab Republic (the),8,155
+AFG,Afghanistan,0,79
+GAB,Gabon,0,1
+BRB,Barbados,0,1
+DNK,Denmark,0,1
+ZWE,Zimbabwe,0,1
+NGA,Nigeria,0,24
+LTU,Lithuania,0,1
+ZAF,South Africa,0,5
+IRL,Ireland,0,1
+LBN,Lebanon,1,11
+SVK,Slovakia,0,1
+COL,Colombia,0,96
+MOZ,Mozambique,1,2
+SAU,Saudi Arabia,0,2
+CMR,Cameroon,0,4
+ARM,Armenia,0,1
+MMR,Myanmar,0,10
+GBR,United Kingdom of Great Britain and Northern Ireland,0,4
+AZE,Azerbaijan,0,8
+GTM,Guatemala,0,27
+HRV,Croatia,0,4
+PNG,Papua New Guinea,0,1
+JPN,Japan,0,1
+TCD,Chad,0,6
+BGD,Bangladesh,0,35
+SDN,Sudan,0,2
+PHL,Philippines,0,157
+SLE,Sierra Leone,0,18
+BIH,Bosnia and Herzegovina,0,25
+ETH,Ethiopia,0,5
+BHR,Bahrain,0,3
+NIC,Nicaragua,0,3
+NPL,Nepal,0,17
+POL,Poland,0,2
+ZMB,Zambia,0,1
+CRI,Costa Rica,0,1
+SRB,Serbia,1,12
+ALB,Albania,0,1
+BFA,Burkina Faso,0,3
+ISR,Israel,0,25
+MLI,Mali,0,2
+PER,Peru,0,17
+RWA,Rwanda,2,24
+GRC,Greece,0,2
+ECU,Ecuador,0,4
+KWT,Kuwait,0,1
+CHL,Chile,0,1
+THA,Thailand,0,16
+CIV,"Côte d'Ivoire",1,6
+ERI,Eritrea,0,2
+PAN,Panama,0,1
+TKM,Turkmenistan,0,1
