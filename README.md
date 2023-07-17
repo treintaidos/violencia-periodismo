@@ -12,6 +12,8 @@ https://articulo19.org/periodistasasesinados/
 
 El archivo 32_ataques-a-periodistas_consolidado_1992-2023.csv contiene el consolidado tras hacer una validación con los archivos anteriores, una verificación individual de cada caso con referencias encontradas para los mismos, así como casos adicionales que no se encontraron en los archivos anteriormente referenciados para complementar el listado.
 
+Los archivos contenidos en la carpeta /datawrapper corresponden a los datos preparados para gráficos específicos dentro del proyecto.
+
 ----------------------------------------------------------------------------------------------------------------
 # violencia-periodismo
 Data on violence against journalists and media outlets in Mexico
@@ -26,3 +28,5 @@ https://articulo19.org/periodistasasesinados/
 - data-5MxFh.csv, which includes records Article 19 currently has of journalists murdered in Mexico.
 
 The file 32_ataques-a-periodistas_consolidado_1992-2023.csv contains the consolidated data after validating it with the previous files, individually verifying each case with references found for them, as well as additional cases that were not found in the previously mentioned files to complement the list.
+
+The files contained in the /datawrapper folder are datasets especifically prepared for certain graphs and visualizations in the project.
