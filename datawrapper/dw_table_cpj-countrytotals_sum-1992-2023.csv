@@ -1,117 +1,117 @@
-﻿cd_country_iso3,nm_country_short,Desaparecidos,Muertos
-KGZ,Kyrgyzstan,0,2
-IRN,Iran (Islamic Republic of),0,6
-HND,Honduras,0,37
-BLR,Belarus,0,6
-BGR,Bulgaria,0,3
-CAN,Canada,0,2
-FRA,France,0,10
-SLV,El Salvador,0,6
-COG,Congo (the),0,3
+﻿cd_country_iso3,nm_country_common,Desaparecidos,Muertos
+KGZ,Kyrgyzstan,,2
+HND,Honduras,,37
+BLR,Belarus,,6
+SYR,Syrian Arab Republic,8,155
+BGR,Bulgaria,,3
+TUR,Turkey,,31
+CAN,Canada,,2
+FRA,France,,10
+SLV,El Salvador,,6
 DZA,Algeria,3,60
-LBR,Liberia,0,1
-URY,Uruguay,0,1
+LBR,Liberia,,1
+URY,Uruguay,,1
 EGY,Egypt,1,13
-GHA,Ghana,0,2
+GHA,Ghana,,2
 YEM,Yemen,1,35
-UZB,Uzbekistan,0,1
-CAF,Central African Republic,0,5
-TJK,Tajikistan,0,29
+UZB,Uzbekistan,,1
+IRN,Iran,,6
+CAF,Central African Republic,,5
+TJK,Tajikistan,,29
 IRQ,Iraq,9,279
+MMR,Burma,,10
 BDI,Burundi,1,4
-ARG,Argentina,0,4
-MDG,Madagascar,0,2
-UGA,Uganda,0,5
-MDV,Maldives,0,2
-TUR,Türkiye,0,31
-SSD,South Sudan,0,10
-DOM,Dominican Republic,0,6
-COD,Congo (the Democratic Republic of the),2,16
-TLS,Timor-Leste,0,2
-GEO,Georgia,0,10
-LSO,Lesotho,0,1
+ARG,Argentina,,4
+MDG,Madagascar,,2
+UGA,Uganda,,5
+MDV,Maldives,,2
+SSD,South Sudan,,10
+DOM,Dominican Republic,,6
+CIV,Ivory Coast,1,6
+TLS,Timor-Leste,,2
+GEO,Georgia,,10
+LSO,Lesotho,,1
 CHN,China,1,5
-KHM,Cambodia,0,12
-TZA,"Tanzania, the United Republic of",1,2
+KHM,Cambodia,,12
 LBY,Libya,4,15
-VNM,Viet Nam,0,1
 MEX,Mexico,15,151
-RUS,Russian Federation (the),7,83
-AGO,Angola,0,11
-TUN,Tunisia,0,1
-BOL,Bolivia (Plurinational State of),0,3
-LVA,Latvia,0,1
-SOM,Somalia,0,85
-PYF,French Polynesia,1,0
-GMB,Gambia,0,2
-BRA,Brazil,0,60
-NLD,"Netherlands, Kingdom of the",0,1
-KEN,Kenya,0,6
-GIN,Guinea,0,4
-MNE,Montenegro,0,1
-KAZ,Kazakhstan,0,4
-PRY,Paraguay,0,10
+AGO,Angola,,11
+TUN,Tunisia,,1
+LVA,Latvia,,1
+SOM,Somalia,,85
+PYF,French Polynesia,1,
+GMB,Gambia,,2
+BRA,Brazil,,60
+KEN,Kenya,,6
+GIN,Guinea,,4
+MNE,Montenegro,,1
+KAZ,Kazakhstan,,4
+PRY,Paraguay,,10
 UKR,Ukraine,1,37
-CYP,Cyprus,0,1
+CYP,Cyprus,,1
 IDN,Indonesia,1,13
-ESP,Spain,0,1
-PAK,Pakistan,0,97
+ESP,Spain,,1
+PAK,Pakistan,,97
 HTI,Haiti,1,19
 LKA,Sri Lanka,1,25
-VEN,Venezuela (Bolivarian Republic of),0,10
-IND,India,0,90
-USA,United States of America,0,17
-MLT,Malta,0,1
-SYR,Syrian Arab Republic (the),8,155
-AFG,Afghanistan,0,79
-GAB,Gabon,0,1
-BRB,Barbados,0,1
-DNK,Denmark,0,1
-ZWE,Zimbabwe,0,1
-NGA,Nigeria,0,24
-LTU,Lithuania,0,1
-ZAF,South Africa,0,5
-IRL,Ireland,0,1
+IND,India,,90
+MLT,Malta,,1
+AFG,Afghanistan,,79
+GAB,Gabon,,1
+BRB,Barbados,,1
+DNK,Denmark,,1
+ZWE,Zimbabwe,,1
+NGA,Nigeria,,24
+GBR,United Kingdom,,4
+LTU,Lithuania,,1
+ZAF,South Africa,,5
+IRL,Ireland,,1
 LBN,Lebanon,1,11
-SVK,Slovakia,0,1
-COL,Colombia,0,96
+SVK,Slovakia,,1
+COL,Colombia,,96
 MOZ,Mozambique,1,2
-SAU,Saudi Arabia,0,2
-CMR,Cameroon,0,4
-ARM,Armenia,0,1
-MMR,Myanmar,0,10
-GBR,United Kingdom of Great Britain and Northern Ireland,0,4
-AZE,Azerbaijan,0,8
-GTM,Guatemala,0,27
-HRV,Croatia,0,4
-PNG,Papua New Guinea,0,1
-JPN,Japan,0,1
-TCD,Chad,0,6
-BGD,Bangladesh,0,35
-SDN,Sudan,0,2
-PHL,Philippines,0,157
-SLE,Sierra Leone,0,18
-BIH,Bosnia and Herzegovina,0,25
-ETH,Ethiopia,0,5
-BHR,Bahrain,0,3
-NIC,Nicaragua,0,3
-NPL,Nepal,0,17
-POL,Poland,0,2
-ZMB,Zambia,0,1
-CRI,Costa Rica,0,1
+SAU,Saudi Arabia,,2
+CMR,Cameroon,,4
+ARM,Armenia,,1
+AZE,Azerbaijan,,8
+GTM,Guatemala,,27
+HRV,Croatia,,4
+PNG,Papua New Guinea,,1
+JPN,Japan,,1
+TCD,Chad,,6
+BGD,Bangladesh,,35
+SDN,Sudan,,2
+PHL,Philippines,,157
+VNM,Vietnam,,1
+SLE,Sierra Leone,,18
+BIH,Bosnia and Herzegovina,,25
+ETH,Ethiopia,,5
+BHR,Bahrain,,3
+NIC,Nicaragua,,3
+TZA,Tanzania,1,2
+NPL,Nepal,,17
+POL,Poland,,2
+COD,Democratic Republic of the Congo,2,16
+BOL,Bolivia,,3
+ZMB,Zambia,,1
+CRI,Costa Rica,,1
 SRB,Serbia,1,12
-ALB,Albania,0,1
-BFA,Burkina Faso,0,3
-ISR,Israel,0,25
-MLI,Mali,0,2
-PER,Peru,0,17
+ALB,Albania,,1
+BFA,Burkina Faso,,3
+NLD,Netherlands,,1
+COG,Congo,,3
+USA,United States,,17
+ISR,Israel,,25
+MLI,Mali,,2
+PER,Peru,,17
 RWA,Rwanda,2,24
-GRC,Greece,0,2
-ECU,Ecuador,0,4
-KWT,Kuwait,0,1
-CHL,Chile,0,1
-THA,Thailand,0,16
-CIV,"Côte d'Ivoire",1,6
-ERI,Eritrea,0,2
-PAN,Panama,0,1
-TKM,Turkmenistan,0,1
+GRC,Greece,,2
+ECU,Ecuador,,4
+KWT,Kuwait,,1
+CHL,Chile,,1
+VEN,Venezuela,,10
+THA,Thailand,,16
+ERI,Eritrea,,2
+PAN,Panama,,1
+TKM,Turkmenistan,,1
+RUS,Russia,7,83
