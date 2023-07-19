@@ -1,117 +1,117 @@
-﻿cd_country_iso3,nm_country_common,_Null_,Alive,Deceased,Desaparecidos,Muertos
-KGZ,Kyrgyzstan,,,,,2
-HND,Honduras,,,,,37
-BLR,Belarus,,,,,6
-SYR,Syrian Arab Republic,,,,8,155
-BGR,Bulgaria,,,,,3
-TUR,Turkey,,,,,31
-CAN,Canada,,,,,2
-FRA,France,,,,,10
-SLV,El Salvador,,,,,6
-DZA,Algeria,,,,3,60
-LBR,Liberia,,,,,1
-URY,Uruguay,,,,,1
-EGY,Egypt,,,,1,13
-GHA,Ghana,,,,,2
-YEM,Yemen,,,,1,35
-UZB,Uzbekistan,,,,,1
-IRN,Iran,,,,,6
-CAF,Central African Republic,,,,,5
-TJK,Tajikistan,,,,,29
-IRQ,Iraq,,,,9,279
-MMR,Burma,,,,,10
-BDI,Burundi,,,,1,4
-ARG,Argentina,,,,,4
-MDG,Madagascar,,,,,2
-UGA,Uganda,,,,,5
-MDV,Maldives,,,,,2
-SSD,South Sudan,,,,,10
-DOM,Dominican Republic,,,,,6
-CIV,Ivory Coast,,,,1,6
-TLS,Timor-Leste,,,,,2
-GEO,Georgia,,,,,10
-LSO,Lesotho,,,,,1
-CHN,China,,,,1,5
-KHM,Cambodia,,,,,12
-LBY,Libya,,,,4,15
-MEX,Mexico,2,2,296,28,
-AGO,Angola,,,,,11
-TUN,Tunisia,,,,,1
-LVA,Latvia,,,,,1
-SOM,Somalia,,,,,85
-PYF,French Polynesia,,,,1,
-GMB,Gambia,,,,,2
-BRA,Brazil,,,,,60
-KEN,Kenya,,,,,6
-GIN,Guinea,,,,,4
-MNE,Montenegro,,,,,1
-KAZ,Kazakhstan,,,,,4
-PRY,Paraguay,,,,,10
-UKR,Ukraine,,,,1,37
-CYP,Cyprus,,,,,1
-IDN,Indonesia,,,,1,13
-ESP,Spain,,,,,1
-PAK,Pakistan,,,,,97
-HTI,Haiti,,,,1,19
-LKA,Sri Lanka,,,,1,25
-IND,India,,,,,90
-MLT,Malta,,,,,1
-AFG,Afghanistan,,,,,79
-GAB,Gabon,,,,,1
-BRB,Barbados,,,,,1
-DNK,Denmark,,,,,1
-ZWE,Zimbabwe,,,,,1
-NGA,Nigeria,,,,,24
-GBR,United Kingdom,,,,,4
-LTU,Lithuania,,,,,1
-ZAF,South Africa,,,,,5
-IRL,Ireland,,,,,1
-LBN,Lebanon,,,,1,11
-SVK,Slovakia,,,,,1
-COL,Colombia,,,,,96
-MOZ,Mozambique,,,,1,2
-SAU,Saudi Arabia,,,,,2
-CMR,Cameroon,,,,,4
-ARM,Armenia,,,,,1
-AZE,Azerbaijan,,,,,8
-GTM,Guatemala,,,,,27
-HRV,Croatia,,,,,4
-PNG,Papua New Guinea,,,,,1
-JPN,Japan,,,,,1
-TCD,Chad,,,,,6
-BGD,Bangladesh,,,,,35
-SDN,Sudan,,,,,2
-PHL,Philippines,,,,,157
-VNM,Vietnam,,,,,1
-SLE,Sierra Leone,,,,,18
-BIH,Bosnia and Herzegovina,,,,,25
-ETH,Ethiopia,,,,,5
-BHR,Bahrain,,,,,3
-NIC,Nicaragua,,,,,3
-TZA,Tanzania,,,,1,2
-NPL,Nepal,,,,,17
-POL,Poland,,,,,2
-COD,Democratic Republic of the Congo,,,,2,16
-BOL,Bolivia,,,,,3
-ZMB,Zambia,,,,,1
-CRI,Costa Rica,,,,,1
-SRB,Serbia,,,,1,12
-ALB,Albania,,,,,1
-BFA,Burkina Faso,,,,,3
-NLD,Netherlands,,,,,1
-COG,Congo,,,,,3
-USA,United States,,,,,17
-ISR,Israel,,,,,25
-MLI,Mali,,,,,2
-PER,Peru,,,,,17
-RWA,Rwanda,,,,2,24
-GRC,Greece,,,,,2
-ECU,Ecuador,,,,,4
-KWT,Kuwait,,,,,1
-CHL,Chile,,,,,1
-VEN,Venezuela,,,,,10
-THA,Thailand,,,,,16
-ERI,Eritrea,,,,,2
-PAN,Panama,,,,,1
-TKM,Turkmenistan,,,,,1
-RUS,Russia,,,,7,83
+﻿cd_country_iso3,nm_country_common,_Null_,Alive,Desaparecidos,Muertos
+KGZ,Kyrgyzstan,,,,2
+HND,Honduras,,,,37
+BLR,Belarus,,,,6
+SYR,Syrian Arab Republic,,,8,155
+BGR,Bulgaria,,,,3
+TUR,Turkey,,,,31
+CAN,Canada,,,,2
+FRA,France,,,,10
+SLV,El Salvador,,,,6
+DZA,Algeria,,,3,60
+LBR,Liberia,,,,1
+URY,Uruguay,,,,1
+EGY,Egypt,,,1,13
+GHA,Ghana,,,,2
+YEM,Yemen,,,1,35
+UZB,Uzbekistan,,,,1
+IRN,Iran,,,,6
+CAF,Central African Republic,,,,5
+TJK,Tajikistan,,,,29
+IRQ,Iraq,,,9,279
+MMR,Burma,,,,10
+BDI,Burundi,,,1,4
+ARG,Argentina,,,,4
+MDG,Madagascar,,,,2
+UGA,Uganda,,,,5
+MDV,Maldives,,,,2
+SSD,South Sudan,,,,10
+DOM,Dominican Republic,,,,6
+CIV,Ivory Coast,,,1,6
+TLS,Timor-Leste,,,,2
+GEO,Georgia,,,,10
+LSO,Lesotho,,,,1
+CHN,China,,,1,5
+KHM,Cambodia,,,,12
+LBY,Libya,,,4,15
+MEX,Mexico,2,2,28,296
+AGO,Angola,,,,11
+TUN,Tunisia,,,,1
+LVA,Latvia,,,,1
+SOM,Somalia,,,,85
+PYF,French Polynesia,,,1,
+GMB,Gambia,,,,2
+BRA,Brazil,,,,60
+KEN,Kenya,,,,6
+GIN,Guinea,,,,4
+MNE,Montenegro,,,,1
+KAZ,Kazakhstan,,,,4
+PRY,Paraguay,,,,10
+UKR,Ukraine,,,1,37
+CYP,Cyprus,,,,1
+IDN,Indonesia,,,1,13
+ESP,Spain,,,,1
+PAK,Pakistan,,,,97
+HTI,Haiti,,,1,19
+LKA,Sri Lanka,,,1,25
+IND,India,,,,90
+MLT,Malta,,,,1
+AFG,Afghanistan,,,,79
+GAB,Gabon,,,,1
+BRB,Barbados,,,,1
+DNK,Denmark,,,,1
+ZWE,Zimbabwe,,,,1
+NGA,Nigeria,,,,24
+GBR,United Kingdom,,,,4
+LTU,Lithuania,,,,1
+ZAF,South Africa,,,,5
+IRL,Ireland,,,,1
+LBN,Lebanon,,,1,11
+SVK,Slovakia,,,,1
+COL,Colombia,,,,96
+MOZ,Mozambique,,,1,2
+SAU,Saudi Arabia,,,,2
+CMR,Cameroon,,,,4
+ARM,Armenia,,,,1
+AZE,Azerbaijan,,,,8
+GTM,Guatemala,,,,27
+HRV,Croatia,,,,4
+PNG,Papua New Guinea,,,,1
+JPN,Japan,,,,1
+TCD,Chad,,,,6
+BGD,Bangladesh,,,,35
+SDN,Sudan,,,,2
+PHL,Philippines,,,,157
+VNM,Vietnam,,,,1
+SLE,Sierra Leone,,,,18
+BIH,Bosnia and Herzegovina,,,,25
+ETH,Ethiopia,,,,5
+BHR,Bahrain,,,,3
+NIC,Nicaragua,,,,3
+TZA,Tanzania,,,1,2
+NPL,Nepal,,,,17
+POL,Poland,,,,2
+COD,Democratic Republic of the Congo,,,2,16
+BOL,Bolivia,,,,3
+ZMB,Zambia,,,,1
+CRI,Costa Rica,,,,1
+SRB,Serbia,,,1,12
+ALB,Albania,,,,1
+BFA,Burkina Faso,,,,3
+NLD,Netherlands,,,,1
+COG,Congo,,,,3
+USA,United States,,,,17
+ISR,Israel,,,,25
+MLI,Mali,,,,2
+PER,Peru,,,,17
+RWA,Rwanda,,,2,24
+GRC,Greece,,,,2
+ECU,Ecuador,,,,4
+KWT,Kuwait,,,,1
+CHL,Chile,,,,1
+VEN,Venezuela,,,,10
+THA,Thailand,,,,16
+ERI,Eritrea,,,,2
+PAN,Panama,,,,1
+TKM,Turkmenistan,,,,1
+RUS,Russia,,,7,83
